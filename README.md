@@ -1,5 +1,5 @@
 # PrimePalindrome and Sum of Primes
-Code Eval (Hard Level)
+Code Eval (Easy Level)
 
 This code has to options.
 
