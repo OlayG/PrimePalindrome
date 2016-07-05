@@ -26,6 +26,8 @@ namespace PrimePalindrome
             CalculatePrimePalindrome();
             // Prints list of prime palindrome
             PrintPalindromeList();
+            // Prints out largest possible prime palindrome
+            Console.WriteLine("\nThe largest prime palindrome is: {0}", primePalindrome.Last()); 
 
             Console.ReadKey();
         }
